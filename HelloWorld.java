@@ -16,7 +16,7 @@ public class HelloWorld {
     }
 
     private void f2() {
-        // v1.0
-    }
+        // Placeholder method (v2.0)
+        }
 
 }
